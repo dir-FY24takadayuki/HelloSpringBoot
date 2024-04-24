@@ -14,6 +14,7 @@
 	<name>HelloSpringBoot</name>
 	<description>first project for Spring Boot</description>
 	<properties>
+        <start-class>com.techacademy.HelloSpringBootApplication</start-class>
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
